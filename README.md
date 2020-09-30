@@ -2,11 +2,11 @@
 
 Aplikacja android umożliwiająca znajdywanie przepisów, wg posiadanych składników (AndroidStudio + Java + ...)
 
-## Dokumentacja
+### Dokumentacja
 Dokumentja, zdjęcia, opis:
 Brak
 
-## Cele, założenia
+### Cele, założenia
 - [x] Struktura danych
 - [x] Algorytm znajdujący przepisy, pasujące do podzbiorów posiadanych przepisów
 - [ ] Baza danych
