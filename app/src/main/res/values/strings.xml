@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">InMyFridge</string>
+    <string name="new_recipe_ingredients">Ingredients</string>
+    <string name="new_recipe_name">Enter the name of the recipe</string>
+    <string name="new_recipe_description">Enter the description of the recipe</string>
+    <string name="new_recipe_macro">Macronutrients</string>
+    <string name="new_recipe_kcal">Kcal: </string>
+    <string name="new_recipe_proteins">Proteins: </string>
+    <string name="new_recipe_carbo">Carbohydrates: </string>
+    <string name="new_recipe_fats">Fats: </string>
+    <string name="new_recipe_cost">The cost of the meal</string>
+</resources>
